@@ -1,4 +1,4 @@
 #UForGE
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/UforgeTeam/HEROKU)
+ [Deploy on Heroku](https://heroku.com/deploy?template=https://github.com/UforgeTeam/UserForge/tree/master)
