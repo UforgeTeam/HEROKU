@@ -1,6 +1,6 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
+  "name": "UForGE",
+  "description": "THE SUPER USERBOT MADED BY TEAM UFORGE ",
   "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
     "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
+  "repository": "https://github.com/UforgeTeam/HEROKU/",
+  "website": "https://github.com/UforgeTeam/HEROKU/",
   "success_url": "https://t.me/ULTRAXCHAT",
   "env": {
     "ENV": {
@@ -19,7 +19,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
+      "value": "./uforge/DOWNLOADS/",
       "required": false
     },
     "F_BAN_LOGGER_GROUP": {
